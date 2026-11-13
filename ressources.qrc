@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>icons/add.svg</file>
+        <file>icons/app_icon.png</file>
+        <file>icons/current_project.svg</file>
+        <file>icons/Left.svg</file>
+        <file>icons/project.svg</file>
+        <file>icons/Rigth.svg</file>
+    </qresource>
+</RCC>
