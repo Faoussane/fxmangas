@@ -24,4 +24,3 @@ Une application de bureau native développée en **C++ avec Qt** pour gérer sa 
 
 - Gestion des images de couverture
 - Suivi de lecture avec statut "Regardé"
-
