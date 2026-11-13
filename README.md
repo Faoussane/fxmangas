@@ -17,7 +17,7 @@ Une application de bureau native développée en **C++ avec Qt** pour gérer sa 
 ### Modification de mangas
 
 <p align="end">
-  <img src="https://raw.githubusercontent.com/Faoussane/fxmangas/main/images/add.png" alt="Interface de FxMangas" width="800">
+  <img src="https://raw.githubusercontent.com/Faoussane/fxmangas/main/images/edit.png" alt="Interface de FxMangas" width="800">
 </p>
 
 ### Suppression de mangas
